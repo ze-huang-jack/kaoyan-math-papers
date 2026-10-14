@@ -1,3 +1,4 @@
+
 # 📚 考研数学一真题库 (1987-2025)
 
 [![License](https://img.shields.io/badge/License-CC--BY--NC--SA%204.0-green.svg)](LICENSE) [![Years](https://img.shields.io/badge/年份-1987--2025-blue.svg)](papers/) [![Papers](https://img.shields.io/badge/真题-40套-orange.svg)](papers/)
